@@ -1,0 +1,41 @@
+class Routes {
+  Routes._();
+
+  static const splash = '/splash';
+  static const login = '/login';
+  static const signup = '/signup';
+  static const forgetPass = '/forgetPass';
+  static const otpCode = '/otpCode';
+  static const resetPass = '/resetPass';
+  static const search = '/search';
+  static const settings = '/settings';
+  static const terms = '/terms';
+  static const about = '/about';
+  static const welcome = '/welcome';
+  static const ticketChat = '/ticket-chat';
+  static const setLocation = '/set-location';
+  static const main = '/main';
+  static const newRequests = '/new-requests';
+  static const chat = '/chat';
+  static const chatMessages = '/chat-messages';
+  static const changePass = '/change-pass';
+  static const orderDetails = '/order-details';
+  static const goodealzDetails = '/goodealz-details';
+  static const editProfile = '/edit-profile';
+  static const notification = '/notification';
+  static const reviews = '/reviews';
+  static const support = '/support';
+  static const language = '/language';
+  static const profits = '/profits';
+  static const uploadUserImage = '/upload-user-image';
+  static const uploadCarImage = '/upload-car-image';
+  static const uploadLicenseFront = '/upload-license-front';
+  static const uploadLicenseBack = '/upload-license-back';
+  static const ordersHistory = '/orders-history';
+  static const privacy = '/privacy';
+  static const addTicket = '/add-ticket';
+  static const tickets = '/tickets';
+  static const faq = '/faq';
+  static const waiting = '/waiting';
+  static const guest = '/guest';
+}
